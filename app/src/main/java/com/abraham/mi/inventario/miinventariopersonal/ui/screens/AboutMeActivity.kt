@@ -44,12 +44,12 @@ class AboutMeActivity : BaseActivity() {
             modifier = Modifier
                 .fillMaxWidth()
                 .padding(horizontal = 16.dp, vertical = 8.dp)
-                .border(1.dp, Color.Black),
+              //  .border(1.dp, Color.Black),
         ) {
             Row(
                 modifier = Modifier
                     .fillMaxWidth()
-                    .border(1.dp, Color.Black)
+                   // .border(1.dp, Color.Black)
                     .padding(16.dp),
                 horizontalArrangement = Arrangement.Center
             ) {
