@@ -34,7 +34,7 @@
     <string name="show_rate">Ver valoración</string>
     <string name="open_calculator">Abrir calculadora</string>
     <string name="stock_default_value">xxxxx.xx</string>
-    <string name="about_me_description">%s\nVersión %s\nabranllis@gmail.com</string>
+    <string name="about_me_description">%s\nVersión %s\nabranllis@gmail.com \nAbraham Martínez</string>
     <string name="calculator_not_found">No se encontró la aplicación de la calculadora</string>
     <string name="request_permission_title">Permisos necesarios</string>
     <string name="request_permission_description">Para acceder a la cámara necesitas conceder permisos.</string>
