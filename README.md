@@ -7,6 +7,11 @@ CONSULTA / MODIFICACION<BR>
 VALORACION STOCK<BR>
 ACERCA DE<BR>
 
+El idioma de la aplicación lo pondrá en español o ingles en funcion del
+idioma configurado para el teléfono en las Settings.
+
+
+
 
 
 
